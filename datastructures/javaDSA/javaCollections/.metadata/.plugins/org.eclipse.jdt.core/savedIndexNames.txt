@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\ALL AKHIL\datastructures\javaDSA\javaCollections\.metadata\.plugins\org.eclipse.jdt.core
+2886988972.index
+3830583073.index
